@@ -1,7 +1,8 @@
+# 小鹤双拼版
 
 tricks to allow easymotion recognize Chinese chars
 
-e.g. `<plug>(easymotion-s)` + `w` would match `我` `握` etc
+e.g. `<plug>(easymotion-s)` + `v` would match `中` `重` etc
 
 # How to use
 
