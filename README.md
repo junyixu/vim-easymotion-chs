@@ -1,4 +1,4 @@
-# 小鹤双拼版
+# **小鹤双拼版**
 
 tricks to allow easymotion recognize Chinese chars
 
@@ -10,7 +10,7 @@ e.g. `<plug>(easymotion-s)` + `v` would match `中` `重` etc
 Plug 'easymotion/vim-easymotion'
 
 " must after easymotion plugin
-Plug 'ZSaberLv0/vim-easymotion-chs'
+Plug 'junyixu/vim-easymotion-chs'
 ```
 
 NOTE:
