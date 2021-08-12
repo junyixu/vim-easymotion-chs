@@ -1,4 +1,4 @@
-# **小鹤双拼版**
+# 小鹤双拼版
 
 tricks to allow easymotion recognize Chinese chars
 
