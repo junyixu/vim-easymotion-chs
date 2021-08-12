@@ -1,4 +1,4 @@
-# double pinyin flypy version (小鹤双拼版)
+# Double pinyin flypy version (小鹤双拼版)
 
 tricks to allow easymotion recognize Chinese chars
 
